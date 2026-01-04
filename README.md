@@ -179,7 +179,7 @@ The focus remained on correct modeling and dynamic aggregation, rather than tabl
 
 │
 
-├── Ecommerce_Sales_Dashboard.pbix
+├── Ecommerce_Sales_Dashboard.pdf
 
 ├── README.md
 
